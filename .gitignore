@@ -10,7 +10,7 @@ log.txt
 *.sublime-project
 *.sublime-workspace
 .vscode/
-npm-debug.log*
+npm-debug.log*/home/estak/development/node/test-keystone/home/estak/development/node/test-keystone
 
 .idea/
 .sourcemaps/
@@ -33,3 +33,6 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
+yarn.lock
+npm.lock
+package-lock.json
