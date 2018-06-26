@@ -69,6 +69,7 @@
     "ionic-image-loader": "^5.0.2",
     "ionicons": "3.0.0",
     "ngx-qrcode2": "0.0.9",
+    "onesignal-cordova-plugin": "^2.3.1",
     "rxjs": "5.5.11",
     "sw-toolbox": "3.6.0",
     "zone.js": "0.8.26"
@@ -101,7 +102,8 @@
       "cordova-plugin-local-notification": {},
       "cordova.plugins.diagnostic": {},
       "cordova-plugin-request-location-accuracy": {},
-      "cordova-plugin-network-information": {}
+      "cordova-plugin-network-information": {},
+      "onesignal-cordova-plugin": {}
     },
     "platforms": [
       "android"
